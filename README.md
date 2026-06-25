@@ -2,6 +2,10 @@
 
 AI-Powered Interview Preparation and Career Readiness Platform built using Artificial Intelligence, Machine Learning, and Modern Web Technologies.
 
+## 🌐 Live Demo
+
+**Live Application:** https://careerforge-ai-one.vercel.app/login
+
 ---
 
 ## 📌 Project Overview
@@ -29,9 +33,9 @@ It serves as a virtual interview assistant that helps candidates gain confidence
 
 ### 🤖 AI Interview Assistant
 
-* AI-generated interview questions.
-* Personalized interview sessions.
-* Real-time interaction.
+* AI-generated interview questions
+* Personalized interview sessions
+* Real-time interaction
 
 ### 💻 Technical Interview Preparation
 
@@ -101,90 +105,10 @@ It serves as a virtual interview assistant that helps candidates gain confidence
 
 ---
 
-## 📁 Project Structure
+## 🚀 Live Demo & Repository
 
-```text
-JobPrepAI/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│
-├── backend/
-│   ├── routes/
-│   ├── models/
-│   ├── controllers/
-│
-├── ai_module/
-│   ├── interview_engine.py
-│   ├── feedback_generator.py
-│
-├── database/
-│
-├── screenshots/
-│
-├── requirements.txt
-├── package.json
-└── README.md
-```
-
----
-
-## 🔄 Workflow
-
-1. User logs into the platform.
-2. User selects interview type.
-3. AI generates personalized questions.
-4. User submits answers.
-5. AI evaluates responses.
-6. Performance score is calculated.
-7. Feedback and recommendations are displayed.
-8. Progress is tracked over time.
-
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Ushapithani/JobPrepAI.git
-```
-
-### Navigate to Project Directory
-
-```bash
-cd JobPrepAI
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Application
-
-```bash
-python app.py
-```
-
-### Open Browser
-
-```text
-http://127.0.0.1:5000
-```
-
----
-
-## 📊 Applications
-
-* Campus Placement Preparation
-* Technical Interview Practice
-* HR Interview Training
-* Career Development Platforms
-* Educational Institutions
-* Skill Assessment Systems
+* **Live Demo:** https://careerforge-ai-one.vercel.app/login
+* **GitHub Repository:** https://github.com/Ushapithani/JobPrepAI
 
 ---
 
@@ -200,42 +124,9 @@ http://127.0.0.1:5000
 
 ---
 
-## 💡 Benefits
-
-* Personalized learning experience
-* Better interview preparation
-* Increased confidence
-* Improved communication skills
-* Real-time feedback
-* Enhanced placement readiness
-
----
-
-## 🔒 Security Features
-
-* User Authentication
-* Secure Data Storage
-* Session Management
-* Input Validation
-
----
-
-## 🙏 Conclusion
-
-JobPrepAI demonstrates how Artificial Intelligence can transform interview preparation by providing personalized guidance, intelligent feedback, and structured learning paths. The platform helps students and professionals improve their interview performance and career readiness through AI-driven insights.
-
----
-
 ## 👩‍💻 Author
 
 **Usha Pithani**
-
 B.Tech – Artificial Intelligence & Machine Learning
 
-GitHub Profile: https://github.com/Ushapithani
-
-Project Repository:
-https://github.com/Ushapithani/JobPrepAI
-
----
-
+GitHub: https://github.com/Ushapithani
